@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+fix issue 53
 fix issue 53 again
-=======
 123 - fix issue 53 --testing
->>>>>>> issue53
